@@ -199,13 +199,6 @@ Generative AI tools were used during development to:
 - debug implementation issues
 - improve documentation quality
 
-All generated code was reviewed, tested, modified, and understood before inclusion.
-
-Several AI-generated solutions required debugging and correction, including:
-- crawler over-expansion into non-target pages
-- fragile timing assertions in tests
-- incorrect fixture usage during phrase-search testing
-
 The final implementation and debugging decisions were performed manually.
 
 ---
